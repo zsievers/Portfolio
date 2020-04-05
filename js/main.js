@@ -29,7 +29,7 @@ $(document).ready(function () {
 
     /// Typed JS TRIGGER
 	$(".s-header .middle-l h3 span").typed({
-		strings: ["Web Designer", "UI/UX  Developer"],
+		strings: ["Web Designer", "UI/UX  Developer", "Husband", "Dog Dad"],
 		loop: true,
 		startDelay: 1e3,
 		backDelay: 3e3
