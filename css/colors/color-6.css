@@ -1,0 +1,118 @@
+/* ========================================================================================= */
+/* ======================================= MAIN COLOR : #E9573F =================================== */
+/* ========================================================================================= */
+.sect .sec-title h2:after {
+    background: #E9573F;
+}
+.s-header .middle-l h3 span {
+    color:#E9573F;
+}
+.navbar-fixed-top .navbar-brand {
+	color: #E9573F;
+}
+.navbar-fixed-top .navbar-brand:hover {
+	color: #E9573F;
+}
+.navbar-nav .active a {
+    color: #E9573F !important;
+}
+.about-me .ab-content .abc-left p span {
+	border-bottom:1px solid #E9573F;
+}
+.about-me .ab-content .freel a:hover span {
+	color: #E9573F;
+}
+.about-me .ab-content .abc-right li span {
+    border-bottom: 1px solid #E9573F;
+    font-weight: bold;
+}
+.skills p {
+    color: #E9573F;
+}
+.skills li .progress-bar::before {
+    background: #E9573F;
+}
+.skills li .progress-bar span {
+    border: 1px solid #E9573F;
+}
+.services .service-box:hover .service-icon, .service-box:focus .service-icon {
+	background: #E9573F;
+	border-color: #E9573F;
+}
+.services h5 {
+	color: #E9573F;
+}
+.resume .resume-box .left-content .r-icon .icon-box {
+    background: #E9573F;
+}
+.resume .resume-box .left-content h4 {
+	color: #E9573F;
+}
+.facts i {
+	color:#E9573F;
+}
+.portfolio .button-group .is-checked {
+	background: #E9573F;
+}
+.portfolio .portfolio-caption .info-content span {
+	color: #E9573F;
+}
+.testimonials .testimonials-content p a {
+	color: #E9573F;
+}
+.testimonials .testimonials-content p a:hover {
+	border-bottom:1px solid #E9573F;
+}
+.blog .blog-p .p-item .p-picture .p-date {
+    background-color: #E9573F;
+}
+.blog .p-content .post-meta span:hover {
+	color: #E9573F;
+}
+.blog .p-content .more {
+	color: #E9573F;
+}
+.contact .contact-left .icon-box {
+    background: #E9573F;
+}
+.contact .contact-left .name-box h4 {
+    color: #E9573F;
+}
+.contact-item .button {
+    background: #E9573F;
+    border: 1px solid #E9573F;
+}
+.contact-item input:focus, .contact-item textarea:focus {
+    border-color: #E9573F;
+}
+.contact-item .button:hover {
+	border-color: #E9573F;
+	color: #E9573F;
+}
+.footer .f-co a {
+    border-bottom:1px solid #E9573F;
+}
+.post-head .p-logo a {
+	color: #E9573F;
+}
+.post-head .head-background h3 {
+    color: #E9573F;
+}
+.blog-area .right-post .widget .widg-title h5:after {
+    background: #E9573F;
+}
+.left-post .post-meta ul li span:hover {
+	color: #E9573F;
+}
+.left-post .post-content .blockquote {
+	border-left: 4px solid #E9573F;
+}
+.comment-box .comnts span a {
+	color: #E9573F;
+}
+.widget .form-control:focus {
+	border-color: #E9573F;
+}
+.social-n .s-icon:hover {
+	background: #E9573F;
+}

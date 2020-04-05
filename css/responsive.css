@@ -1,0 +1,162 @@
+/* -------------------------------------------------------
+                     phone & tablet 
+-------------------------------------------------------- */
+@media (max-width: 991px){
+	
+	/* --- Resum --- */
+	.resume .education {
+		padding-right: 0;
+		margin-bottom: 40px;
+	}
+	.resume .employment {
+		padding-right: 0;
+		padding-left: 0;
+	}
+	/* --- Blog ---*/
+	.blog .post {
+		padding-bottom: 40px;
+	}
+	/* --- Facts --- */
+	.facts .fact-item {
+		margin-bottom: 60px;
+	}
+
+}
+
+@media (max-width: 995px) {
+	.contact-item:first-child {
+	    padding-right: 0;
+	}
+}
+
+
+@media (max-width: 768px){
+
+	/* --- Navbar --- */
+	.navbar-fixed-top .navbar-brand, .navbar-fixed-top .navbar-brand:focus, .navbar-fixed-top .navbar-brand:hover {
+		padding-top: 14px;
+	}
+	.fixed .navbar-toggle .icon-bar {
+	    background: #111;
+	}
+	.navbar-nav {
+	    background: #fff;
+	}
+	.navbar-fixed-top .navbar-nav>li>a {
+		color: #111;
+	}
+
+	/* --- About Me ----*/
+	.about-me .ab-content .freel {
+		margin-bottom: 25px;
+	}
+	.about-me .ab-content .abc-left {
+		padding-right: 0;
+	}
+
+	/* --- Skills --- */
+	.skills .skills-right {
+		padding-left: 0;
+		margin-top: 40px;
+	}
+	.skills .skills-left {
+		padding-right: 0;
+	}
+
+	/* --- Resum --- */
+	.resume .education {
+		padding-right: 0;
+	}
+	.resume .employment {
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.resume .resume-box .left-content {
+		width: 100%;
+	}
+	.resume .resume-box .right-content {
+	    margin-top: 15px;
+	    position: initial;
+	}
+	.resume .resume-box {
+	    margin-bottom: 60px;
+	}
+	.resume .education .resume-box:last-child {
+	    margin-bottom: 60px;
+	}
+	.resume .employment .resume-box:last-child {
+	    margin-bottom: 0;
+	}
+
+	/* --- Facts --- */
+	.facts .fact-item {
+		margin-bottom: 60px;
+	}
+	.facts .fact-item:last-child {
+		margin-bottom: 0;
+	}
+
+	/* --- Portfolio --- */
+	.portfolio .portfolio-item {
+    	width: 50%;
+	}
+
+	/* --- Blog ---*/
+	.blog .post {
+		padding-bottom: 40px;
+	}
+
+	.blog .post:last-child {
+		padding-bottom: 0px;
+	}
+
+	/* --- Contact --- */
+	.contact .contact-left {
+		padding-left: 0;
+	}
+
+	/* --- Blog Post --- */
+	.blog-area .right-post {
+		padding-left: 15px;
+		float: left;
+    	margin-top: 40px;
+	}
+
+}
+
+
+@media (max-width: 525px) {
+
+	.sect .sec-title h2 {
+		font-size: 38px;
+	}
+
+	/* --- Header --- */
+	.s-header .middle-l h5 {
+	    font-size: 18px;
+	}
+	.s-header .middle-l h1 {
+		font-size: 58px;
+	}
+	.s-header .middle-l h3 {
+	    font-size: 18px;
+	}
+	.s-header .middle-l h3 span {
+		font-size: 18px;
+	}
+	
+	/* --- Portfolio --- */
+	.portfolio .portfolio-item {
+    	width: 100%;
+	}
+	.portfolio .button-group a {
+	    margin-bottom: 14px;
+	    display: inline-block;
+	}
+	.social-n a {
+	    margin: 10px;
+	    display: inline-block;
+	}
+
+
+}
