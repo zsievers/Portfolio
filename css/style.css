@@ -105,7 +105,8 @@ p,span,h1,h2,h3,h4,h5,a {
   3. HEADER
 -----------------------------------------*/
 .s-header {
-    background: url('http://via.placeholder.com/1350x750');
+    /* background: url('http://via.placeholder.com/1350x750'); */
+    background: url('../img/profile3.JPG');
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -120,7 +121,7 @@ p,span,h1,h2,h3,h4,h5,a {
     left: 0;
     height: 100%;
     width: 100%;
-	background: rgba(0,0,0,.9);
+	background: rgba(0,0,0,.2);
 }
 .s-header .middle-c {
     display: table;
@@ -156,13 +157,13 @@ p,span,h1,h2,h3,h4,h5,a {
 .s-header .middle-l h3 {
 	letter-spacing: 5px;
 	position: relative;
-    font-size: 24px;
+    font-size: 40px;
     text-transform: uppercase;
     font-family: 'Josefin Sans', sans-serif;
 }
 .s-header .middle-l h3 span {
 	letter-spacing: 3px;
-    font-size: 24px;
+    font-size: 40px;
     text-transform: uppercase;
 }
 .s-header .middle-l .typed-cursor {
