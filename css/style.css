@@ -121,7 +121,7 @@ p,span,h1,h2,h3,h4,h5,a {
     left: 0;
     height: 100%;
     width: 100%;
-	background: rgba(0,0,0,.2);
+	background: rgba(0,0,0,.4);
 }
 .s-header .middle-c {
     display: table;
@@ -144,8 +144,9 @@ p,span,h1,h2,h3,h4,h5,a {
     margin-right: auto;
 }
 .s-header .middle-l h5 {
+    text-align: left;
 	letter-spacing: 2px;
-    font-size: 24px;
+    font-size: 40px;
 	font-family: 'Josefin Sans', sans-serif;
 }
 .s-header .middle-l h1 {
@@ -154,7 +155,12 @@ p,span,h1,h2,h3,h4,h5,a {
 	letter-spacing: 3px;
     text-transform: uppercase;
 }
+/* I am a web.. dad .. dog etc. */
 .s-header .middle-l h3 {
+    text-align: left;
+    font-weight: bold;
+    color: black;
+    padding-left: 20px;
 	letter-spacing: 5px;
 	position: relative;
     font-size: 40px;
@@ -186,7 +192,7 @@ p,span,h1,h2,h3,h4,h5,a {
     width: 100%;
 }
 .navbar-fixed-top .navbar-nav>li {
-    font-size: 16px;
+    font-size: 18px;
     margin: 30px 20px;
     font-weight: 400;
     cursor: pointer;
@@ -196,7 +202,7 @@ p,span,h1,h2,h3,h4,h5,a {
     margin-right:14px;
 }
 .navbar-fixed-top .navbar-nav>li>a {
-	color: #FFF;
+	color: black;
  	font-family: 'Josefin Sans', sans-serif;
 	margin: 0;
     font-weight: 600;
@@ -214,8 +220,8 @@ p,span,h1,h2,h3,h4,h5,a {
 	font-family: 'Josefin Sans', sans-serif;
 }
 .navbar-fixed-top .navbar-brand, .navbar-fixed-top .navbar-brand:focus, .navbar-fixed-top .navbar-brand:hover {
-    font-weight: 700;
-    font-size: 28px;
+    font-weight: bold;
+    font-size: 40px;
     padding-top: 25px;
 }
 .fixed {
