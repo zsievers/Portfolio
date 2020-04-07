@@ -106,7 +106,7 @@ p,span,h1,h2,h3,h4,h5,a {
 -----------------------------------------*/
 .s-header {
     /* background: url('http://via.placeholder.com/1350x750'); */
-    background: url('../img/profile3.JPG');
+    background: url('../img/profile3.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
