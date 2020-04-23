@@ -396,6 +396,15 @@ a {
     color: black;
 }
 
+@media (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3){
+      div.freel.available{
+          margin-top: 0px;
+          margin-bottom: 90px;
+      }
+  }
+
 /* --------------------------------------
   6. skills SECTION
 -----------------------------------------*/
