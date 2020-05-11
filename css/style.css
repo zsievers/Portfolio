@@ -180,8 +180,9 @@ p,span,h1,h2,h3,h4,h5,a {
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
     .s-header{
-        height: 44vh;
-        background-size: 148%;
+        height: 34vh;
+        width: 100%;
+        background-size: contain;
     }
     .container {
         padding-left: 10px;
