@@ -1624,7 +1624,7 @@ a {
 .footer .f-co a {
     color: #232323;
 }
-
+/* 
 @media (min-device-width: 375px) 
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
@@ -1639,4 +1639,4 @@ a {
     a.navbar-brand.active{
         font-size: 25px;
     }
-}
+} */

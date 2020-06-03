@@ -160,3 +160,20 @@
 
 
 }
+
+
+@media (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+    .s-header{
+        height: 34vh;
+        width: 100%;
+        background-size: contain;
+    }
+    .container {
+        padding-left: 10px;
+    }
+    a.navbar-brand.active{
+        font-size: 25px;
+    }
+}
