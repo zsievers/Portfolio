@@ -409,7 +409,7 @@ a {
 /* --------------------------------------
   6. skills SECTION
 -----------------------------------------*/
-.skills {
+/* .skills {
 	padding-top: 0;
 }
 .skills p {
@@ -429,9 +429,9 @@ a {
 }
 .skills .skills-bottom {
 	padding: 30px 0 0 0;
-}
+} */
 /* 6.1  = Progress-bar */
-.skills li {
+/* .skills li {
     margin-bottom: 20px;
 }
 .skills li:last-child {
@@ -480,7 +480,7 @@ a {
     font-weight: 500;
     font-size: 12px;
     line-height: 16px;
-}
+} */
 /* --------------------------------------
   7. SERVICES SECTION
 -----------------------------------------*/
@@ -613,7 +613,7 @@ a {
 .facts {
     background-color: rgba(0,0,0,.8);
     background-blend-mode: overlay;
-    background-image: url('http://via.placeholder.com/1600x800');
+    background-image: url("/img/coding.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
