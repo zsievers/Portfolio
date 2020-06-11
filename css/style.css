@@ -613,7 +613,7 @@ a {
 .facts {
     background-color: rgba(0,0,0,.8);
     background-blend-mode: overlay;
-    background-image: url("/img/coding.jpg");
+    background-image: url("../img/coding.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
