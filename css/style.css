@@ -176,21 +176,6 @@ p,span,h1,h2,h3,h4,h5,a {
 	border-bottom-width: 0;
 }
 
-/* @media (min-device-width: 375px) 
-  and (max-device-width: 812px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
-    .s-header{
-        height: 34vh;
-        width: 100%;
-        background-size: contain;
-    }
-    .container {
-        padding-left: 10px;
-    }
-    a.navbar-brand.active{
-        font-size: 25px;
-    }
-} */
 
 /* --------------------------------------
   4. NAVGITION
@@ -303,6 +288,8 @@ p,span,h1,h2,h3,h4,h5,a {
 	margin-top: 25px;
 	height: 0;
 }
+
+/* Freelancing Available */
 .about-me .ab-content .freel span {
 	position: absolute;
 	font-size: 14px;
