@@ -659,7 +659,7 @@ a {
 	position: relative;
 }
 .portfolio .portfolio-caption img {
-    height: auto;
+    height: 225px;
     width: 100%;
     max-width: 100%;
 }
