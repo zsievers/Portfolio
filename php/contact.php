@@ -29,7 +29,7 @@
 
 	<?php
 
-	$TO = 'you@youdomain.com';
+	$TO = 'zjsievers@gmail.com';
 
 	//message the subject of the email
 	$SUBJECT = 'Contact from your WebSite';
