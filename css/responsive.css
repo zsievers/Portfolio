@@ -32,6 +32,11 @@
 
 @media (max-width: 768px){
 
+	.s-header {
+			background-position: 30%;
+			height: 80vh;
+		}
+
 	/* --- Navbar --- */
 	.navbar-fixed-top .navbar-brand, .navbar-fixed-top .navbar-brand:focus, .navbar-fixed-top .navbar-brand:hover {
 		padding-top: 14px;
@@ -131,6 +136,11 @@
 		font-size: 38px;
 	}
 
+	.s-header {
+		background-position: 40%;
+		height: 80vh;
+	}
+
 	/* --- Header --- */
 	.s-header .middle-l h5 {
 	    font-size: 18px;
@@ -165,11 +175,12 @@
 @media (min-device-width: 375px) 
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
-    .s-header{
+    /* .s-header{
         height: 34vh;
         width: 100%;
         background-size: contain;
-    }
+    } */
+
     .container {
         padding-left: 10px;
     }
