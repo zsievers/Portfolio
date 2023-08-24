@@ -53,6 +53,28 @@ $(document).ready(function () {
     }
   });
 
+  //// VIEWS TRIGGER
+  window.addEventListener("DOMContentLoaded", (event) => {
+    getVisitView();
+  });
+  const functionApi = "";
+  const getVisitView = () => {
+    let count = 30;
+    fetch(functionApi)
+      .then((response) => {
+        return response.json();
+      })
+      .then((respsonse) => {
+        console.log("Website called function api");
+        count = response.count;
+        document.getElementById("views").innerText = count;
+      })
+      .catch(function (error) {
+        console.log(error);
+      });
+    return count;
+  };
+
   //// ISOTOPE TRIGGER
   var $grid = $(".portfolio-content").isotope({
     itemSelector: ".portfolio-item",
