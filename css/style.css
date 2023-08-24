@@ -129,11 +129,12 @@ a {
   3. HEADER
 -----------------------------------------*/
 .s-header {
-    background: url('../img/profile3.jpg');
+    /* background: url('../img/profile3.jpg'); */
+    background-color: #645757;
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 90vh;
+    height: 40vh;
     width: 100%;
     position: relative;
     overflow-x: hidden !important;
@@ -271,7 +272,7 @@ a {
 .navbar-fixed-top .navbar-brand:focus,
 .navbar-fixed-top .navbar-brand:hover {
     font-weight: bold;
-    font-size: 40px;
+    font-size: 20px;
     padding-top: 25px;
 }
 
